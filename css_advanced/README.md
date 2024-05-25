@@ -1,5 +1,5 @@
 # Smile School 
-In this project, I will be implementing - from scratch - a figma landing page design using HTML and CSS. Let's kick things off by creating the html structure for the page.
+This project follows the HTML advanced project. I am adding css styling to the site being developed.
 
 #### [Figma Design](https://www.figma.com/design/rhI9LO1a2lzGlD047zLwm5/Homepage-Design?node-id=3558-0&t=gDwlyW1JQ7RUTPwE-0)
 
